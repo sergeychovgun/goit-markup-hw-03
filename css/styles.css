@@ -119,6 +119,7 @@ address {
 }
 
 .contacts-link {
+  display: block;
   padding: 24px 0;
   letter-spacing: 0.02em;
   color: #434455;
@@ -243,7 +244,7 @@ address {
 .team-position {
   text-align: center;
   letter-spacing: 0.02em;
-  margin-bottom: 32px;
+  margin: 0;
 }
 
 /* ---PORTFOLIO ---- */
@@ -269,7 +270,7 @@ address {
 }
 
 .portfolio-title {
-  margin: 32px 16px 8px;
+  margin-bottom: 8px;
   font-size: 20px;
   font-weight: 500;
   letter-spacing: 0.02em;
@@ -277,7 +278,7 @@ address {
 }
 
 .portfolio-category {
-  margin: 0 16px 32px;
+  margin: 0;
   letter-spacing: 0.02em;
 }
 
